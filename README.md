@@ -1,2 +1,2 @@
 # NetEasyMusicListenedSongsCounts
-raise the count
+raise the count.
